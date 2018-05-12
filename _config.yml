@@ -10,7 +10,7 @@ url:              https://hueywoonlee.github.io/
 baseurl:          /
 
 # Show postdated posts
-future:           true
+future:           false
 
 author:
   name:           'Huey Woon Lee'
