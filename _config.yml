@@ -1,4 +1,5 @@
 # Permalinks
+highlighter:      rouge
 permalink:        pretty
 
 # Setup
