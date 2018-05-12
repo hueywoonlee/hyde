@@ -9,6 +9,9 @@ description:      'Help for the statistically confused'
 url:              https://hueywoonlee.github.io/
 baseurl:          /
 
+# Show postdated posts
+future:           true
+
 author:
   name:           'Huey Woon Lee'
   url:            ###
