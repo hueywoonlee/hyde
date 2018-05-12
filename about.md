@@ -1,30 +1,21 @@
 ---
 layout: page
-title: About
+title: Research 
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Bioinformatics
+I am broadly interested in all kinds of biomedical research that involves challenges in data analysis. I love developing computational solutions (software) for these problems and applying them on real data. I believe that the ability to comprehensively analyze "big data" is a very important step towards understanding this complex system.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Epigenetics and gene regulation
 
-There are currently two themes built on Poole:
+The 1D genome (DNA sequence) has been determined and studied for over a decade. However, the complex transcriptional program has yet to be fully understood. A lot of "evil" organismal malfunctions (such as cancer) originate from or innitiate dramatic changes in the transcription, however it is unclear how this is achieved. My current research focus on characterizing 3D chromatin structure dynamics during stem cell differentiation, and how it is linked to transcription. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Aging 
+Isn't it fascinating that nearly all living organisms are doomed to ageing and death, while our DNAs continue to thrive in the blood of our offsprings? Is this simply a survival strategy/natural selection, or an instrinsic defect in our system that can never be fixed? Animal longevity has been studied for years and many genes were found to be linked to prolonged/reduced life span. However, we are still far from understanding the ageing process. 
 
-## Setup
+### Open Source Sicence ###
+I love the idea of open source science, where data and scripts are shared transparently upon publication. I think it is very important to share these, as it is a way for others to more easily replicate your findings.  
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Publication ###
+For a list of my publications, please see [google scholar](https://scholar.google.com/citations?user=YA5MtwsAAAAJ&hl=en)
